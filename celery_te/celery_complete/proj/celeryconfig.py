@@ -1,0 +1,2 @@
+CELERY_RESULT_BACKEND ='redis://:Tencredis5.0$@@111.229.125.15:6379/7'
+BROKER_URL='redis://:Tencredis5.0$@@111.229.125.15:6379/6'
